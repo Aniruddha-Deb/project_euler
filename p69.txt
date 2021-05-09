@@ -1,0 +1,4 @@
+Solved by hand:
+note that the totient function is minimum when the number is a product of k distinct
+primes, as the number of factors then is k(k-1). The largest number under 1000000
+is 2*3*5*7*11*13*17 = 510510, which is the answer :)
