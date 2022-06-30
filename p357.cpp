@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cmath>
+#include 
 #include <bitset>
+#include <algorithm>
 
 using namespace std;
 
@@ -13,6 +15,12 @@ bool is_prime(int n) {
 		}
 	}
 	return true;
+
+	vector<int> v(n);
+
+	map<int,int> m;
+
+	m
 }
 
 int main() {
